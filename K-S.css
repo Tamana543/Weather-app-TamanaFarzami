@@ -55,8 +55,8 @@ li {
 h4 {
     display: flex;
     position:relative;
-    left: 650px;
-    top: -50px;
+    left: 550px;
+    top: -70px;
     right: -20px;  
     font-weight: 500px;  
     padding: 0px;
@@ -75,6 +75,7 @@ h4 {
     font-size: 28px;
     position: relative;
     top: -35px;
+   
 }
 .current-temperature-icon{
     position: relative;
